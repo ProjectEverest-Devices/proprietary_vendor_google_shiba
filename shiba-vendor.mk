@@ -78,7 +78,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     VZWAPNLib \
-    AICorePrebuilt \
     AppDirectedSMSService \
     CarrierSettings_signed_45.0.591154042 \
     CarrierWifi \
